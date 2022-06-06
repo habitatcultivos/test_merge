@@ -3,6 +3,7 @@
     <v-container v-if="$mq !== 'mobile'">
       <v-row class="text-center">
         <v-col cols="12">
+          <h1>This is an HOME page editado</h1>
           <p>Este es el home de aquí</p>
         </v-col>
       </v-row>
