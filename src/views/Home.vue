@@ -3,7 +3,7 @@
     <v-container v-if="$mq !== 'mobile'">
       <v-row class="text-center">
         <v-col cols="12">
-          <h1>This is an HOME page</h1>
+          <h1>This is an HOME page editado</h1>
         </v-col>
       </v-row>
     </v-container>
