@@ -4,8 +4,9 @@
     <v-container>
       <v-row class="text-center">
         <v-col cols="12">
-          <h1>This is an ABOUT page editado Ok</h1>
+          <h1>Esto debe cambiar</h1>
           <p>Nuevas cosas</p>
+          <h4>Muy bien</h4>
         </v-col>
       </v-row>
     </v-container>
