@@ -6,6 +6,7 @@
         <v-col cols="12">
           <h1>This is an ABOUT page editado Ok</h1>
           <p>Nuevas cosas</p>
+          <h2>Bien todo</h2>
         </v-col>
       </v-row>
     </v-container>
