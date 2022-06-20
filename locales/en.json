@@ -1,0 +1,414 @@
+{
+  "hello": "Hello",
+  "made_by": "Made by",
+  "toggle_language": "Toggle Language",
+  "welcome": "there, welcome to Vitesome",
+  "recomended-ide": "Recommended IDE setup",
+  "See": "See",
+  "more-info": "for more information.",
+  "Alexis": {
+    "Jolines": "Jolines"
+  },
+  "general": {
+    "showPass": "Show Password",
+    "next": "Next",
+    "save": "Save",
+    "saveChanges": "Save Changes"
+  },
+  "calculator": {
+    "title": "Style & Amounts",
+    "stateOp": "I am currently sending money from",
+    "sendTo": "Send to",
+    "oriCurrency": "USD",
+    "receivingOp": "Choose your receiving option",
+    "styleOp": "Choose your sending option",
+    "paymentOp": "Payment options",
+    "feeOp": "Fee",
+    "cardsOp": "Accepted cards",
+    "textBtn": "Send Money Now",
+    "placeholders": {
+      "country": "Select a Country",
+      "currency": "Currency",
+      "oriAmount": "0.00",
+      "destAmount": "0.00"
+    }
+  },
+  "settings": {
+    "title": "Settings for Intermex Transactional",
+    "subTitleGeneral": "General",
+    "channel": "Channel ID",
+    "googleAnalitycsId": "Google Analytics ID",
+    "appInsightId": "App Insights ID",
+    "logRocketId": "LogRocket ID",
+    "branchIoId": "Branch IO ID",
+    "subTitleModes": "Mode",
+    "thirdSubTitleCalculator": "Calculator",
+    "thirdSubTitleTransactional": "Transactional",
+    "thirdSubTitleLocations": "Locations",
+    "maxHeight": "Max-Height(px)",
+    "minHeight": "Min-Height(px)",
+    "subTitleColors": "Colors",
+    "primaryColorGradient": "Primary Color Gradient",
+    "primaryColor": "Primary Color",
+    "primaryColorDark": "Primary Color Dark",
+    "primaryColorLight": "Primary Color Light",
+    "primaryColorFaded": "Primary Color Faded",
+    "secondaryColor": "Secondary Color",
+    "secondaryColorLight": "Secondary Color Light",
+    "secondaryColorDisabled": "Secondary Color Disabled",
+    "accentColor": "Accent Color",
+    "errorColor": "Error Color",
+    "infoColor": "Info Color",
+    "successColor": "Success Color",
+    "warningColor": "Warning Color",
+    "warningColorDark": "Warning Color Dark",
+    "warningColorLight": "Warning Color Light",
+    "subTitleFont": "Fonts",
+    "headersFonts": "Headers",
+    "textFonts": "Text",
+    "color": "Color",
+    "size": "Size (px)",
+    "herotitle": "Hero Title",
+    "h1": "Heading 1",
+    "h2": "Heading 2",
+    "h3": "Heading 3",
+    "h4": "Heading 4",
+    "h5": "Heading 5",
+    "h6": "Heading 6",
+    "bodylarge": "Body Large",
+    "bodyregular": "Body Regular 2 Text",
+    "caption": "Caption",
+    "menuitem": "Menu Item",
+    "menuitemselected": "Menu Item Selected",
+    "footeritem": "Footer Item",
+    "ht1": "highlighted text",
+    "saveBtn": "Save",
+    "discardBtn": "Discard",
+    "successResult": "Successfully",
+    "errorResult": "Ups!. Something went wrong, try again!",
+    "apply": "Apply",
+    "noApply": "No Apply"
+  },
+  "bottomMenu": {
+    "Home": "Home",
+    "HomeLayout": "Home",
+    "Calculator": "Calculator",
+    "CalculatorLayout": "Calculator",
+    "About": "About",
+    "CookiePolicy": "CookiePolicy",
+    "Settings": "Settings",
+    "Testing": "Testing",
+    "Locations": "Locations",
+    "More": "More",
+    "MoreLayout": "More",
+    "LogOut": "Log out",
+    "ValidationsLayout": "Validations"
+  },
+  "validationMsgs": {
+    "required": "Required",
+    "regEx": "Not match with Regex",
+    "min-lenght": "Minimum {lenght} characters",
+    "try-again": "Try Again",
+    "call-us": "Call us",
+    "modify": "Modify",
+    "cancel-wire": "Cancel Wire",
+    "errorTransferValidation": "Please try again selecting a different set of options or contact us if you need additional help."
+  },
+  "loadingMsgs": {
+    "globalLoading": "Loading"
+  },
+  "errors": {
+    "unauthorized": "Will be redirected to Sign In page"
+  },
+  "locations": {
+    "title": "And more, so your loved ones won't have to travel far",
+    "subtitle": "Just enter in your information to see all the options in the city you're sending to."
+  },
+  "agreement": {
+    "title": "Agreement",
+    "ireview": "I have reviewed and agreed to the terms of the ",
+    "disclosureLink": "Disclosure and Consent to Electronic Comunications",
+    "userLink": "User Agreement, ",
+    "termsLink": "Terms and Conditions. ",
+    "iread": "I also confirm that I have read and accepted the ",
+    "policyLink": "Privacy Policy",
+    "accept": "I accept"
+  },
+  "home": {
+    "recipients": "Send money to",
+    "recipientsList": "List of recipients",
+    "sendMoney": "Send money",
+    "defaultCarousel": "Hello Intermex",
+    "signIn": "Sign in or Sign up",
+    "bestRates": "Best Rates Today*",
+    "dls": "usd 1.00",
+    "lastTransfers": "Last transfers",
+    "sent": "Sent: ",
+    "more": "See more"
+  },
+  "auth": {
+    "title": "Sign In or Sign Up",
+    "subtitle": "First time with us? Register or place your account email to log in",
+    "inputEmail": "Email",
+    "inputEmailPh": "Enter your Email Address"
+  },
+  "newAccount": {
+    "title": "New Account",
+    "subtitle": "Choose a password for",
+    "rules": "At least 8 characters, one capital letter and one number",
+    "inputPass": "New password",
+    "inputPassPh": "Enter your password",
+    "inputRepeat": "Repeat password",
+    "inputRepeatPh": "Both fields must match"
+  },
+  "signIn": {
+    "title": "Sign In",
+    "subtitle": "Enter the password for",
+    "inputPass": "Password",
+    "inputPassPh": "Enter your password",
+    "alert": "For your protection your session has expired. Please sign in again",
+    "forgotPass": "FORGOT PASSWORD?"
+  },
+  "transferStatus": {
+    "InProcess": "In Process",
+    "InfoPending": "Info Pending",
+    "WaitingToBeChargedToSender": "Waiting to be Charged to Sender",
+    "AvailableToPickUp": "Available to Pick Up",
+    "PaidToBeneficiary": "Paid to Beneficiary",
+    "CancelledRefundPending": "Cancelled-Refund Pending",
+    "CancelledAndRefunded": "Cancelled and Refunded",
+    "CancellationInProcess": "Cancellation in Process",
+    "WaitingOriginalWireToBeCancelled": "Waiting Original Wire to Be Cancelled",
+    "VoidOrNotCharged": "Void or Not Charged"
+  },
+  "sender": {
+    "title": "Sender",
+    "name": {
+      "subtitle": "What is your name?",
+      "matchID": "Name must match ID exactly.",
+      "matchIDMore": "Tap here to learn more",
+      "firstNameTitle": "First & middle name(s)",
+      "firstNamePh": "Enter your first & middle name(s)",
+      "lastNameTitle": "First last name",
+      "lastNamePh": "Your first last name",
+      "secondLastNameTitle": "Second last name",
+      "secondLastNamePh": "Your second last name",
+      "secondLastNameNote": "If you have one on your ID."
+    },
+    "adress": {
+      "subtitle": "Enter your home address",
+      "subtitle2": "Enter the address that you currently live in",
+      "adressTitle": "Street Address",
+      "adressPh": "Enter street and number",
+      "cityTitle": "City",
+      "cityPh": "Enter city name",
+      "stateTitle": "State or province",
+      "statePh": "Select state or province",
+      "zipCodeTitle": "ZIP/Postal code",
+      "zipCodePh": "Enter zip code"
+    },
+    "phoneNumber": {
+      "subtitle": "Enter your mobile number",
+      "subtitle2": "Phone must be able to receive SMS messages for verification code.",
+      "phoneNumberTitle": "Phone number",
+      "phoneNumberRegex": "Phone number must be in the format 0000000000",
+      "phoneNumberNote": "Please include country code"
+    }
+  },
+  "newPassword": {
+    "title": "New password",
+    "subtitle": "Choose a new password",
+    "rules": "At least 8 characters, one capital letter and one number",
+    "inputPass": "New password",
+    "inputPassPh": "Enter your password",
+    "inputRepeat": "Repeat new password",
+    "inputRepeatPh": "Both fields must match",
+    "inputRepeatErrorMessage": "Passwords doesn't match"
+  },
+  "trustDevice": {
+    "title": "Trust Device",
+    "resendCodeOp": "Resend code via:",
+    "resendCodeTimerOp": "Resend code in",
+    "textBtnSms": "SMS",
+    "textBtnEmail": "Email",
+    "textAlert": "If you no longer have access to this email address or you have not received your verification code in 5 minutes, please contact our service center at 1-866-999-1282 to help you.",
+    "placeholders": {
+      "code": "Enter Code"
+    },
+    "regExErrorMessage": {
+      "code": "Max length of 6 characters"
+    }
+  },
+  "transfers": {
+    "titleVoid": "There are no transfers within the last 3 months!",
+    "subtitleVoid": "Your transfers history will appear here.",
+    "title": "Showing transfers from the past 3 months.",
+    "sent": "Sent: ",
+    "filters": {
+      "recipientName": "Recipient's name",
+      "fromToDate": "From - To Date",
+      "trackingCode": "Tracking code",
+      "titleModal": "Search",
+      "clearFields": "Clear fields",
+      "search": "Search",
+      "toggleRecipient": "Recipient's name(s)",
+      "toggleTracking": "Tracking"
+    }
+  },
+  "transferDetail": {
+    "lastStatus": "Last status on",
+    "trackingNumber": "Tracking number",
+    "transferDate": "Transfer date",
+    "from": "from",
+    "to": "to",
+    "amount": "Amount",
+    "fees": "Fees",
+    "taxes": "Taxes",
+    "totalDue": "Total Due",
+    "totalToRecipient": "Total to Recipient",
+    "recipientInformation": "Recipient information",
+    "recipientsName": "Recipient´s name",
+    "phoneNumber": "Pone number"
+  },
+  "help": {
+    "iconTitle": "HELP",
+    "modalTitle": "Need help?",
+    "modalSubtitle1": "Check our frequent questions",
+    "modalSubtitle2": "Or contact our customer service",
+    "modalSubtitle3": "Hours of operation: 8:00am - 11:00pm EST",
+    "modalButtonFAQ": "FAQ",
+    "modalButtonChat": "CHAT",
+    "modalButtonCall": "CALL US"
+  },
+  "recipient": {
+    "title": "Recipient",
+    "subtitle1": "Who are you sending money to?",
+    "subtitle2": "Saved recipients in ",
+    "subtitle3": "Select recipient to send money or edit",
+    "buttonNewRecipient": "NEW RECIPIENT"
+  },
+  "editRecipient": {
+    "title": "Edit Recipient",
+    "nickName": "Nickname",
+    "fullName": "Full name",
+    "homeAddress": "Home address",
+    "phoneNumber": "Phone number",
+    "btnDelete": "Delete recipient",
+    "btnSave": "Save Changes",
+    "placeholders": {
+      "nickName": "Enter recipient's nickname"
+    },
+    "modal": {
+      "title": "Recipient Deleted",
+      "message": "The recipient was deleted",
+      "btnOk": "Okay"
+    }
+  },
+  "recipientAdditionalInfo1": {
+    "title": "Additional Info",
+    "subtitle": "Please, provide some additional information about ",
+    "required": "Required information*",
+    "form": {
+      "CPF": "CPF",
+      "CPFPh": "Enter CPF number",
+      "numbers": "Numbers only",
+      "hasPhone": "I don't have it",
+      "Phone": "Phone Number",
+      "PhonePh": "Enter phone number",
+      "ctrycode": "Please include country code",
+      "hasAddress": "I don't have it",
+      "Address": "Address",
+      "Street": "Street address",
+      "StreetPh": "Enter street and number",
+      "State": "State or province",
+      "City": "City",
+      "Zip": "ZIP/Postal code",
+      "ZipPh": "Enter zip code"
+    }
+  },
+  "recipientAdditionalInfo2": {
+    "title": "Additional Info"
+  },
+  "idInfo": {
+    "title": "Name must match ID exactly.",
+    "subtitle": "Check below where you can find the necessary name information for each type of ID document.",
+    "passport": "Passport",
+    "driverLicense": "Driver's License"
+  },
+  "recipientName": {
+    "title": "Recipient Name",
+    "subtitle": "Who are you sending money to?",
+    "IDText": {
+      "message": "Name must match ID exactly",
+      "btnShow": "Tap here to learn more"
+    },
+    "firstName": "First & middle name(s)",
+    "last1": "First last name",
+    "last2": "Second last name",
+    "last2Message": "If recipient's ID has a second last name",
+    "placeholders": {
+      "firstName": "Recipient name(s)",
+      "last1": "Recipient first last name",
+      "last2": "Recipient second last name"
+    }
+  },
+  "more": {
+    "account": "Account",
+    "manageProfile": "Manage profile",
+    "managePaymentOptions": "Manage payment options",
+    "changePassword": "Change password",
+    "security": "Security",
+    "securityTips": "Security tips",
+    "legal": "Legal",
+    "userAgreement": "User Agreement, Terms & Conditions",
+    "electronicCommunications": "Consent to Electronic Communications",
+    "privacyPolicy": "Privacy Policy",
+    "legalNotices": "Legal notices to customers",
+    "accessibilityStatement": "Accessibility Statement",
+    "licensesAcknowledgments": "Licenses and Acknowledgments"
+  },
+  "cashPickupCity": {
+    "title": "Cash Pickup",
+    "inputCityTitle": "City to pick up cash",
+    "inputCityPh": "Enter city name",
+    "notFoundCityTitle": "is not a city available to pick up cash in",
+    "notFoundCitySubtitle": "Please review the city name above"
+  },
+  "branchSelection": {
+    "title": "Cash Pickup",
+    "subtitle": "Select a pickup location",
+    "monFriHours": "Mon-Fri",
+    "satHours": "Saturday",
+    "sunHours": "Sunday"
+  },
+  "recipientBank": {
+    "title": "Which Bank account are you sending money to?",
+    "subtitle": "Saved accounts for",
+    "buttonNewAccount": "NEW RECIPIENT ACCOUNT"
+  },
+  "bankSelection": {
+    "inputSearchTitle": "Select recipient’s bank",
+    "inputSearchPh": "Search bank",
+    "notFoundBankTitle": "is not a bank available to deposit in",
+    "notFoundBankSubtitle": "Please review the bank name above"
+  },
+  "bankDetails": {
+    "inputBranchTitle": "Branch Code",
+    "inputBranchPh": "Enter branch code",
+    "inputAccountTitle": "Recipient’s bank account number",
+    "inputAccountPh": "Enter account number",
+    "inputTypeTitle": "Recipient’s bank account type",
+    "inputAddInfoTitle": "Bank additional info",
+    "inputAddInfoPh": "Enter any additional info",
+    "inputAddInfoLg": "Optional"
+  },
+  "paymentMethods": {
+    "title": "Your Payment Options",
+    "titleVoid": "You do not currently have any payment methods saved. You can add payment methods when you send money to someone",
+    "titleModal": "Delete",
+    "askModal": "Are you sure to delete"
+  },
+  "validateRecipient": {
+    "title": "VALIDATE RECIPIENT"
+  }
+}

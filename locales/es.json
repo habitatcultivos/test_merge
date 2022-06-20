@@ -1,0 +1,417 @@
+{
+  "hello": "Hola",
+  "made_by": "Hecho por",
+  "toggle_language": "Cambiar lenguaje",
+  "welcome": "bienvenidos a Vitesome",
+  "recomended-ide": "Configuración recomendada del IDE",
+  "if-using": "en caso de usar",
+  "See": "Revisa",
+  "more-info": "para mas información.",
+  "Alexis": {
+    "Jolines": "JolinesENG"
+  },
+  "general": {
+    "min-lenght": "[0] caracteres minimo",
+    "showPass": "Mostrar contraseña",
+    "next": "Siguiente",
+    "save": "Guardar",
+    "saveChanges": "Guardar cambios"
+  },
+  "calculator": {
+    "title": "Mandar dinero",
+    "stateOp": "Estoy enviando dinero desde",
+    "sendTo": "Enviar a",
+    "oriCurrency": "USD",
+    "receivingOp": "Elija su opción de recepción",
+    "styleOp": "Elija su opción de envío",
+    "paymentOp": "Opciones de pago",
+    "feeOp": "Tarifa",
+    "cardsOp": "Tarjetas aceptadas",
+    "textBtn": "Envía dinero ahora",
+    "placeholders": {
+      "country": "Seleccione un país",
+      "currency": "moneda",
+      "oriAmount": "0.00",
+      "destAmount": "0.00"
+    }
+  },
+  "settings": {
+    "title": "Configuraciones para Intermex Transaccional",
+    "subTitleGeneral": "General",
+    "channel": "ID de Canal",
+    "googleAnalitycsId": "Identificador Google Analytics",
+    "appInsightId": "Identificador App Insights",
+    "logRocketId": "Identificador LogRocket",
+    "branchIoId": "Identificador Branch IO",
+    "subTitleModes": "Modo",
+    "thirdSubTitleCalculator": "Calculadora",
+    "thirdSubTitleTransactional": "Transaccional",
+    "thirdSubTitleLocations": "Locaciones",
+    "maxHeight": "Altura maxima(px)",
+    "minHeight": "Altura minima(px)",
+    "subTitleColors": "Colores",
+    "primaryColorGradient": "Gradiente Color Principal",
+    "primaryColor": "Color Principal",
+    "primaryColorDark": "Color Principal Obscuro",
+    "primaryColorLight": "Color Principal Claro",
+    "primaryColorFaded": "Color Principal Desteñido",
+    "secondaryColor": "Color Secundario",
+    "secondaryColorLight": "Color Secundario Claro",
+    "secondaryColorDisabled": "Color Secundario Desahabilitado",
+    "accentColor": "Color para Remarcado",
+    "errorColor": "Color para Error",
+    "infoColor": "Color para Info",
+    "successColor": "Color para Éxito",
+    "warningColor": "Color para Advertencia",
+    "warningColorDark": "Color para Advertencia Obscura",
+    "warningColorLight": "Color para Advertencia Clara",
+    "subTitleFont": "Fuentes",
+    "headersFonts": "Titulos",
+    "textFonts": "Texto",
+    "color": "Color",
+    "size": "Tamaño (px)",
+    "herotitle": "Hero Title",
+    "h1": "Encabezado 1",
+    "h2": "Encabezado 2",
+    "h3": "Encabezado 3",
+    "h4": "Encabezado 4",
+    "h5": "Encabezado 5",
+    "h6": "Encabezado 6",
+    "bodylarge": "Body Large",
+    "bodyregular": "Body Regular 2 Text",
+    "caption": "Caption",
+    "menuitem": "Menu Item",
+    "menuitemselected": "Menu Item Selected",
+    "footeritem": "Footer Item",
+    "ht1": "Texto Resaltado",
+    "saveBtn": "Guardar",
+    "discardBtn": "Descartar",
+    "successResult": "Con éxito",
+    "errorResult": "¡Ups!. ¡Algo salió mal, intenta de nuevo!",
+    "apply": "Aplicar",
+    "noApply": "No Aplicar"
+  },
+  "bottomMenu": {
+    "Home": "Inicio",
+    "HomeLayout": "Inicio",
+    "Calculator": "Calculadora",
+    "CalculatorLayout": "Calculadora",
+    "About": "Acerca",
+    "CookiePolicy": "Política de Cookies",
+    "Settings": "Configuraciones",
+    "Testing": "Pruebas",
+    "Locations": "Locaciones",
+    "More": "Más",
+    "LogOut": "Cerrar sesión",
+    "ValidationsLayout": "Validaciones"
+  },
+  "validationMsgs": {
+    "required": "Requerido",
+    "regEx": "No coincide con Regex",
+    "min-lenght": "Mínimo {lenght} caracteres",
+    "try-again": "Intentar Otra Vez",
+    "call-us": "Llámanos",
+    "modify": "Modificar",
+    "cancel-wire": "Cancelar Envío",
+    "errorTransferValidation": "Por favor intente de nuevo seleccionando opciones diferentes o contáctenos si necesita ayuda adicional."
+  },
+  "loadingMsgs": {
+    "globalLoading": "Cargando"
+  },
+  "errors": {
+    "unauthorized": "Será redirigido al Inicio de sesión"
+  },
+  "locations": {
+    "title": "Y más, para que tus seres queridos no tengan que viajar lejos.",
+    "subtitle": "Solo ingresa tus datos para ver todas las opciones en la ciudad a la que estás enviando."
+  },
+  "agreement": {
+    "title": "Acuerdo",
+    "ireview": "He leido y aceptado los terminos y condiciones de ",
+    "disclosureLink": "Divulgación y Consentimiento para Comunicaciones Electrónicas",
+    "userLink": "Acuerdo de Usuario, ",
+    "termsLink": "Terminos y Condiciones. ",
+    "iread": "También confirmo que he leído y acepto la ",
+    "policyLink": "Política de Privacidad.",
+    "accept": "Acepto"
+  },
+  "home": {
+    "recipients": "Enviar dinero a",
+    "recipientsList": "Beneficiarios",
+    "sendMoney": "Enviar dinero",
+    "defaultCarousel": "Hola Intermex",
+    "signIn": "Inicia sesión o registrate",
+    "bestRates": "Mejores Tarifas de Hoy*",
+    "dls": "usd 1.00",
+    "lastTransfers": "Últimas transferencias",
+    "sent": "Enviado: ",
+    "more": "Ver más"
+  },
+  "auth": {
+    "title": "Inicia sesión o Registrate",
+    "subtitle": "¿Es tu primera vez? Registrate o introduce tu correo para iniciar sesión",
+    "inputEmail": "Correo",
+    "inputEmailPh": "Ingresa tu correo"
+  },
+  "newAccount": {
+    "title": "Crear Cuenta",
+    "subtitle": "Escribe una contraseña para",
+    "rules": "Al menos 8 caracteres, una mayúscula y un número",
+    "inputPass": "Contraseña",
+    "inputPassPh": "Escribe tu contraseña",
+    "inputRepeat": "Reescribir contraseña",
+    "inputRepeatPh": "Ambos campos deben coincidir",
+    "showPass": "Mostrar contraseña"
+  },
+  "signIn": {
+    "title": "Iniciar sesión",
+    "subtitle": "Introduce la contraseña para",
+    "inputPass": "Contraseña",
+    "inputPassPh": "Escribe tu contraseña",
+    "alert": " Por tu seguridad, tu sesión ha expirado. Porfavor inicia sesión otra vez",
+    "forgotPass": "¿Olvidaste tu contraseña?"
+  },
+  "transferStatus": {
+    "InProcess": "En Proceso",
+    "InfoPending": "Pendiente de Informacion",
+    "WaitingToBeChargedToSender": "Cobro Pendiente al Remitente",
+    "AvailableToPickUp": "Disponible para Pago al Beneficiario",
+    "PaidToBeneficiary": "Pagado al Beneficiario",
+    "CancelledRefundPending": "Cancelado - Monto Pendiente de Devolución",
+    "CancelledAndRefunded": "Cancelado - Monto Devuelto",
+    "CancellationInProcess": "En Proceso de Cancelación",
+    "WaitingOriginalWireToBeCancelled": "En espera de cancelacion del giro original",
+    "VoidOrNotCharged": "Anulado - No se efectuo el cargo"
+  },
+  "sender": {
+    "title": "Remitente",
+    "name": {
+      "subtitle": "¿Cómo te llamas?",
+      "matchID": "El nombre debe coincidir exactamente con el ID.",
+      "matchIDMore": "Toque aquí para obtener más información",
+      "firstNameTitle": "Primer y segundo nombre(s)",
+      "firstNamePh": "Ingrese su primer y segundo nombre(s)",
+      "lastNameTitle": "Primer apellido",
+      "lastNamePh": "tu primer apellido",
+      "secondLastNameTitle": "Segundo apellido",
+      "secondLastNamePh": "tu segundo apellido",
+      "secondLastNameNote": "Si lo tiene en su DNI."
+    },
+    "adress": {
+      "subtitle": "Ingrese la dirección de su casa",
+      "subtitle2": "Ingrese la dirección en la que vive actualmente",
+      "adressTitle": "Dirección",
+      "adressPh": "Introduce calle y número",
+      "cityTitle": "Ciudad",
+      "cityPh": "Ingrese el nombre de la ciudad",
+      "stateTitle": "Estado o Provincia",
+      "statePh": "Selecciona estado o provincia",
+      "zipCodeTitle": "Código postal/ZIP",
+      "zipCodePh": "Ingresa tu código postal"
+    },
+    "phoneNumber": {
+      "subtitle": "Ingrese su numero celular",
+      "subtitle2": "El teléfono debe poder recibir mensajes SMS para el código de verificación.",
+      "phoneNumberTitle": "Número de teléfono",
+      "phoneNumberRegex": "El número de teléfono debe tener el formato 0000000000",
+      "phoneNumberNote": "Incluya el código del país"
+    }
+  },
+  "newPassword": {
+    "title": "Nueva contraseña",
+    "subtitle": "Elija una contraseña nueva",
+    "rules": "Al menos 8 caracteres, una mayúscula y un número",
+    "inputPass": "Contraseña",
+    "inputPassPh": "Escribe tu contraseña",
+    "inputRepeat": "Repetir nueva contraseña",
+    "inputRepeatPh": "Ambos campos deben coincidir",
+    "showPass": "Mostrar contraseña",
+    "inputRepeatErrorMessage": "Las contraseñas no coinciden"
+  },
+  "trustDevice": {
+    "title": "Dispositivo de confianza",
+    "resendCodeOp": "Reenviar código via:",
+    "resendCodeTimerOp": "Reenviar código en",
+    "textBtnSms": "SMS",
+    "textBtnEmail": "Correo Electrónico",
+    "textAlert": "Si ya no tienes acceso a esta dirección de correo electrónico o no has recibido tu código de verificación en 5 minutos, comunícate con nuestro centro de servicio al 1-866-999-1282 para que te ayuden.",
+    "placeholders": {
+      "code": "Ingresa el código"
+    },
+    "regExErrorMessage": {
+      "code": "Longitud máxima de 6 caracteres"
+    }
+  },
+  "transfers": {
+    "titleVoid": "No hay transferencias en los últimos 3 meses",
+    "subtitleVoid": "Su historial de transferencias aparecerá aquí.",
+    "title": "Mostrando transferencias de los últimos 3 meses.",
+    "sent": "Enviado: ",
+    "filters": {
+      "recipientName": "Nombre del destinatario",
+      "fromToDate": "Fecha Desde - Hasta",
+      "trackingCode": "Codigo de rastreo",
+      "titleModal": "Búsqueda",
+      "clearFields": "Limpiar campos",
+      "search": "Búsqueda",
+      "toggleRecipient": "Destinatario",
+      "toggleTracking": "Rastreo"
+    }
+  },
+  "transferDetail": {
+    "lastStatus": "Último estado en",
+    "trackingNumber": "Número de rastreo",
+    "transferDate": "Fecha de transferencia",
+    "from": "desde",
+    "to": "a",
+    "amount": "Monto",
+    "fees": "Tarifa",
+    "taxes": "Impuestos",
+    "totalDue": "Total adeudado",
+    "totalToRecipient": "Total al destinatario",
+    "recipientInformation": "Información del destinatario",
+    "recipientsName": "Nombre del destinatario",
+    "phoneNumber": "Número de teléfono"
+  },
+  "help": {
+    "iconTitle": "AYUDA",
+    "modalTitle": "¿Necesitas ayuda?",
+    "modalSubtitle1": "Consulta nuestras preguntas frecuentes",
+    "modalSubtitle2": "O póngase en contacto con nuestro servicio de atención al cliente",
+    "modalSubtitle3": "Horas de operación: 8:00 am - 11:00 pm EST",
+    "modalButtonFAQ": "FAQ",
+    "modalButtonChat": "CHAT",
+    "modalButtonCall": "LLÁMANOS"
+  },
+  "recipient": {
+    "title": "Destinatario",
+    "subtitle1": "¿A quién le estás enviando dinero?",
+    "subtitle2": "Destinatarios guardados en ",
+    "subtitle3": "Seleccionar destinatario para enviar dinero o editar",
+    "buttonNewRecipient": "NUEVO DESTINATARIO"
+  },
+  "editRecipient": {
+    "title": "Editar destinatario",
+    "nickName": "Sobre nombre",
+    "fullName": "Nombre completo",
+    "homeAddress": "Domicilio",
+    "phoneNumber": "Teléfono",
+    "btnDelete": "Eliminar destinatario",
+    "btnSave": "Guardar cambios",
+    "placeholders": {
+      "nickName": "Ingrese el apodo del destinatario"
+    },
+    "modal": {
+      "title": "Eliminar beneficiario",
+      "message": "El beneficiario fue eliminado",
+      "btnOk": "Aceptar"
+    }
+  },
+  "recipientAdditionalInfo1": {
+    "title": "Información Adicional",
+    "subtitle": "Por favor proporcione información adicional sobre ",
+    "required": "Información requerida*",
+    "form": {
+      "CPF": "CPF",
+      "CPFPh": "Ingresa el número de CPF",
+      "numbers": "Solo números",
+      "hasPhone": "No tengo",
+      "Phone": "Número de Teléfono",
+      "PhonePh": "Ingrese número de teléfono",
+      "ctrycode": "Por favor incluya el código del país",
+      "hasAddress": "No tengo",
+      "Address": "Dirección",
+      "Street": "Calle",
+      "StreetPh": "Ingrese calle y número",
+      "State": "Estado",
+      "City": "Ciudad",
+      "Zip": "Código postal",
+      "ZipPh": "Ingresa código postal"
+    }
+  },
+  "recipientAdditionalInfo2": {
+    "title": "Información Adicional"
+  },
+  "idInfo": {
+    "title": "El nombre debe coincidir exactamente con el ID.",
+    "subtitle": "Consulte a continuación dónde puede encontrar la información necesaria sobre el nombre para cada tipo de documento de identidad.",
+    "passport": "Pasaporte",
+    "driverLicense": "Licencia para Conducir"
+  },
+  "recipientName": {
+    "title": "Nombre del Destinatario",
+    "subtitle": "¿A quién le estás enviando dinero?",
+    "IDText": {
+      "message": "El nombre debe coincidir exactamente con la identificación",
+      "btnShow": "Presiona aquí para saber más"
+    },
+    "firstName": "Primer y segundo nombre(s)",
+    "last1": "Primer apellido",
+    "last2": "Segundo apellido",
+    "last2Message": "Si el destinatario tiene segundo apellido en su identifiación",
+    "placeholders": {
+      "firstName": "Nombre(s) del destinatario",
+      "last1": "Primer apellido del destinatario",
+      "last2": "Segundo apellido del destinatario"
+    }
+  },
+  "more": {
+    "account": "Cuenta",
+    "manageProfile": "Administrar perfil",
+    "managePaymentOptions": "Administrar métodos de pago",
+    "changePassword": "Cambiar contraseña",
+    "security": "Seguridad",
+    "securityTips": "Consejos de seguridad",
+    "legal": "Legal",
+    "userAgreement": "Acuerdos de usuario, Términos y condiciones",
+    "electronicCommunications": "Consentimiento a las Comunicaciones Electrónicas",
+    "privacyPolicy": "Politica de Privacidad",
+    "legalNotices": "Avisos legales para clientes",
+    "accessibilityStatement": "Declaración de accesibilidad",
+    "licensesAcknowledgments": "Licencias y acuerdos"
+  },
+  "cashPickupCity": {
+    "title": "Pago en efectivo",
+    "inputCityTitle": "Ciudad para retirar efectivo",
+    "inputCityPh": "Ingrese el nombre de la ciudad",
+    "notFoundCityTitle": "no es una ciudad disponible para recoger efectivo en",
+    "notFoundCitySubtitle": "Por favor revise el nombre de la ciudad arriba"
+  },
+  "branchSelection": {
+    "title": "Pago en efectivo",
+    "subtitle": "Seleccione una ubicación de recogida",
+    "monFriHours": "Lunes-Viernes",
+    "satHours": "Sábado",
+    "sunHours": "Domingo"
+  },
+  "recipientBank": {
+    "title": "¿A qué cuenta bancaria estás enviando dinero?",
+    "subtitle": "Cuentas guardadas de",
+    "buttonNewAccount": "NUEVA CUENTA DE BENEFICIARIO"
+  },
+  "bankSelection": {
+    "inputSearchTitle": "Seleccione el banco del destinatario",
+    "inputSearchPh": "Buscar banco",
+    "notFoundBankTitle": "no es un banco disponible para depositar en",
+    "notFoundBankSubtitle": "Por favor revise el nombre del banco arriba."
+  },
+  "bankDetails": {
+    "inputBranchTitle": "Código de sucursal",
+    "inputBranchPh": "Ingrese código de sucursal",
+    "inputAccountTitle": "Número de cuenta bancaria del destinatario",
+    "inputAccountPh": "Ingrese el número de cuenta",
+    "inputTypeTitle": "Tipo de cuenta bancaria del destinatario",
+    "inputAddInfoTitle": "Información adicional del banco",
+    "inputAddInfoPh": "Ingrese cualquier información adicional",
+    "inputAddInfoLg": "Opcional"
+  },
+  "paymentMethods": {
+    "title": "Tus Métodos de Pago",
+    "titleVoid": "Actualmente no tiene ningún método de pago guardado. Puede agregar métodos de pago cuando mande dinero a alguien",
+    "titleModal": "Eliminar",
+    "askModal": "¿Estás seguro de eliminar"
+  },
+  "validateRecipient": {
+    "title": "VALIDACION DE BENEFICIARIO"
+  }
+}
