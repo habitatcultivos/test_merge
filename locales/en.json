@@ -422,5 +422,15 @@
     "next": "Next",
     "save": "Save",
     "saveChanges": "Save Changes"
+  },
+   "bankDetails2": {
+    "inputBranchTitle2": "Branch Code",
+    "inputBranchPh2": "Enter branch code",
+    "inputAccountTitle2": "Recipient’s bank account number",
+    "inputAccountPh2": "Enter account number",
+    "inputTypeTitle2": "Recipient’s bank account type",
+    "inputAddInfoTitle2": "Bank additional info",
+    "inputAddInfoPh2": "Enter any additional info",
+    "inputAddInfoLg2": "Optional"
   }
 }
