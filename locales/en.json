@@ -422,5 +422,11 @@
     "next": "Next",
     "save": "Save",
     "saveChanges": "Save Changes"
+  },
+  "general4": {
+    "showPass": "Show Password",
+    "next": "Next",
+    "save": "Save",
+    "saveChanges": "Save Changes"
   }
 }
