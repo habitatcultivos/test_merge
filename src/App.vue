@@ -2,7 +2,9 @@
   <v-app>
     <!--<SidebarLeft v-if="$mq !== 'mobile'" />
     <v-main>
+      <p>Este es el App.js"
       <router-view/>
+     <div>Aqui más cosas para hacer merge</div> 
     </v-main>-->
     <component :is="layout">
       <router-view :layout.sync="layout"/>
