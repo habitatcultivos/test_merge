@@ -410,5 +410,11 @@
   },
   "validateRecipient": {
     "title": "VALIDATE RECIPIENT"
+  },
+  "general2": {
+    "showPass": "Show Password",
+    "next": "Next",
+    "save": "Save",
+    "saveChanges": "Save Changes"
   }
 }
