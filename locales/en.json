@@ -427,7 +427,8 @@
     "showPass": "Show Password",
     "next": "Next",
     "save": "Save",
-    "saveChanges": "Save Changes"
+    "saveChanges": "Save Changes",
+    "inputAddInfoLg2": "Optional"
   },
    "bankDetails2": {
     "inputBranchTitle2": "Branch Code",
